@@ -32,6 +32,7 @@
 	
 	<!-- WP Head -->
 	<?php wp_head(); ?>
+	<link rel="stylesheet" type="text/css" href="http://localhost/wrodpress1/wp-content/themes/oxygen/custom.css">
 
 </head>
 
@@ -74,3 +75,4 @@
 			<div id="main">
 	
 				<?php do_atomic( 'open_main' ); // oxygen_open_main ?>
+
