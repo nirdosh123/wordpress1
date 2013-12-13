@@ -1,4 +1,29 @@
 body  {
-	background-color: blue;
+	background-color: red;
 	
+}
+#site-description
+{
+
+	color: rgb(20, 1, 187);
+}
+#menu-primary ul li a
+{
+
+	font-weight: 300;
+	font-size: 2em;
+	text-transform: capitalize;
+
+
+
+
+
+}
+#menu-primary li.current-menu-item a
+{
+	color: rgb(170, 20, 20);
+}
+#site-title 
+{
+	text-align: right;
 }
